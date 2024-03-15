@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+/* 
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -30,4 +30,11 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+} */
+
+
+.error{
+  color:red;
+  font-size: 0.8rem;
+  padding: 0.2rem;
 }
